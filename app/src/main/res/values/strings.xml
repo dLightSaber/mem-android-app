@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_update">Update</string>
+    <string name="text_already_register">Already have an Account?</string>
+    <string name="text_do_not_have_account">Do not have an Account?</string>
+    <string name="text_sign_in"><u><b>Sign In</b></u></string>
+    <string name="text_sign_up"><u><b>Sign Up</b></u></string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="text_first_step_sign_up">Here\'s your first step with us!</string>
+    <string name="text_welcome_back">Hello there,\nwelcome back</string>
+    <string name="hint_address">Address (Optional)</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_schedule_appointment">Schedule Appointment</string>
+    <string name="menu_find_a_doctor">Find A Doctor</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="title_search_doctor">Search Doctor</string>
+    <string name="btn_search">Search</string>
+    <string name="hint_speciality">Speciality</string>
+    <string name="hint_city">City</string>
+    <string name="hint_select_speciality">Select Speciality</string>
+</resources>
